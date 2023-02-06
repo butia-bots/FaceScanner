@@ -1,4 +1,4 @@
-<h1 align="center">FaceScanner</h1>
+<h1 align="center">Butia Face Recognition Package</h1>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/PyTorch-v1.6.0-blue"/>
