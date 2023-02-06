@@ -80,10 +80,10 @@ python3 predict.py --img your_img.type
 ## Citation
 If you find this package useful, consider citing it using:
 ```
-@misc{butia_quiz,
-    title={Butia Quiz Package},
+@misc{butia_face_recognition,
+    title={Butia Face Recognition Package},
     author={{ButiaBots}},
-    howpublished={\url{https://github.com/butia-bots/butia_quiz/}},
+    howpublished={\url{https://github.com/butia-bots/FaceScanner/}},
     year={2022}
 }
 ```
